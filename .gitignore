@@ -3,6 +3,7 @@
 *.ilk
 *.obj
 *.pdb
+*.lib
 /include
 /lib
 .vscode
