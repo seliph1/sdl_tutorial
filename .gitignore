@@ -4,6 +4,7 @@
 *.obj
 *.pdb
 *.lib
+/assets
 /include
 /lib
 .vscode
